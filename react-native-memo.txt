@@ -1,0 +1,8 @@
+1. 리액트 네이티브 설치 
+npm install -g react-native-cli
+
+2. 프로젝트 생성
+react-native init projectName
+
+3. iOS 실행
+react-native run-ios --sivulator "iPhone 8"
